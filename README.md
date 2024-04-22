@@ -7,7 +7,7 @@
 
 ## Installation
 
-1. Clone the repository:
+
 
 ```bash
 git clone https://github.com/tushar-badlani/NLP-Asssignment.git
