@@ -45,7 +45,7 @@ for row in df.iterrows():
   for p in soup.find_all('p'):
     text += p.get_text()
 
-  file_name = f"/articles/{id}"
+  file_name = f"articles/{id}.txt"
   with open(file_name, 'w') as file:
     file.write(title + '\n' + text)
 
