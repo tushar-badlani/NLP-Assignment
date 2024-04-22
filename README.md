@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Python (version X.X.X or higher)
+- Python (version 3.8.10 or higher)
 - pip (Python package installer)
 
 ## Installation
